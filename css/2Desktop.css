@@ -1,0 +1,11 @@
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.product-detail--card{
+    width: 350px;
+}
+.plans-container--slider{
+    margin: 0;
+    gap: 100px;
+}
